@@ -1,3 +1,4 @@
+-- Title of Document Here --
 Hello Amanda
 Welcome to Introduction to Git
 You got this!
