@@ -2,3 +2,6 @@
 Hello Amanda
 Welcome to Introduction to Git
 You got this!
+Do I though?
+We'll see.
+I appreciate the positive attitude, though!
